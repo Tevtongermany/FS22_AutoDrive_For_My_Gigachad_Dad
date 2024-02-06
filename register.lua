@@ -269,7 +269,7 @@ local function check()
 
     if mods then
         for _, activemod in pairs(mods) do
-            if activemod.title == "AutoDrive" then
+            if activemod.title == "Auto Drive For Gigachad Dad" then
                 foundMod = true
                 break
             end
@@ -277,7 +277,7 @@ local function check()
     end
 
     if g_currentModName then
-        if g_currentModName == "FS22_AutoDrive" and foundMod then
+        if g_currentModName == "FS22_AutoDrive_For_My_Gigachad_Dad" and foundMod then
             if AutoDrive.currentModName == nil then
                 AutoDrive.currentModName = g_currentModName
 
