@@ -3,61 +3,61 @@
 	<translationContributors>Gozmozdony</translationContributors>
 	<texts>
 		<text name="UNKNOWN"									text="Ismeretlen" />
-		<text name="input_ADToggleHud"							text="AD: HUD be/ki" />
-		<text name="input_ADToggleHudExtension"					text="AD: Show HUD infos" />
-		<text name="input_ADToggleMouse"						text="AD: Egér be/ki" />
-		<text name="input_ADEnDisable"							text="AD: Bekapcsolás/Kikapcsolás" />
-		<text name="input_ADSilomode"							text="AD: Módváltás" />
-		<text name="input_ADPreviousMode"						text="AD: Previous mode" />
-		<text name="input_ADRecord"								text="AD: felvétel" />
-		<text name="input_ADRecord_Dual"						text="AD: Record 2 way route" />
-		<text name="input_ADRecord_SubPrio"						text="AD: Record secondary route" />
-		<text name="input_ADRecord_SubPrioDual"					text="AD: Record 2 way secondary route route" />
-		<text name="input_ADSelectTarget"						text="AD: Cél választás" />
-		<text name="input_ADSelectPreviousTarget"				text="AD: Előző cél választás" />
-		<text name="input_AD_Speed_up"							text="AD: Sebesség növelése " />
-		<text name="input_AD_Speed_down"						text="AD: Sebesség csökkentése" />
-		<text name="input_AD_routes_manager" 					text="AD: Útvonalkezelő megnyitása" />
-		<text name="input_AD_open_notification_history" 		text="AD: Előzmények megnyitása" />
-		<text name="input_AD_continue"							text="AD: Folytatás" />
-		<text name="input_ADSelectTargetUnload"					text="AD: Következő kirakodás " />
-		<text name="input_ADSelectPreviousTargetUnload"			text="AD: Előző kirakodás" />
-		<text name="input_ADActivateDebug"						text="AD: Szerkesztés" />
-		<text name="input_ADDisplayMapPoints"					text="AD: Show waypoints" />
-		<text name="input_ADDebugSelectNeighbor"				text="AD: Szomszédos pont" />
-		<text name="input_ADDebugChangeNeighbor"				text="AD: Következő szomszédos pont" />
-		<text name="input_ADDebugPreviousNeighbor"				text="AD: Select previous Neighbour Point" />
-		<text name="input_ADDebugCreateConnection"				text="AD: Kapcsolat be/ki" />
-		<text name="input_ADDebugToggleConnectionInverted"		text="AD: Toggle connection between inverted" />
-		<text name="input_ADDebugCreateMapMarker"				text="AD: Cél létrehozása/szerkesztése" />
-		<text name="input_ADRenameMapMarker"					text="AD: Kijelölt cél szerkesztése" />
-		<text name="input_ADDebugDeleteWayPoint"				text="AD: Útpont törlés" />
-		<text name="input_ADDebugDeleteDestination"				text="AD: A legközelebbi cél törlése " />
-		<text name="input_ADSelectNextFillType"					text="AD: Következő termék" />
-		<text name="input_ADSelectPreviousFillType"				text="AD: Előző termék" />
-		<text name="input_ADOpenGUI"							text="AD: GUI nyitás" />
-		<text name="input_ADCallDriver"							text="AD: Sofőr felvétel" />
-		<text name="input_ADGoToVehicle"						text="AD: Váltás az érkezett járműre" />
-		<text name="input_ADNameDriver"							text="AD: Sofőr elnevezése" />
-		<text name="input_ADSetDestinationFilter"				text="AD: Destination filter" />
-		<text name="input_AD_FieldSpeed_up"						text="AD: Increase Field Speed" />
-		<text name="input_AD_FieldSpeed_down"					text="AD: Decrease Field Speed" />
-		<text name="input_ADIncLoopCounter"						text="AD: Útvonal ismétlése" />
-		<text name="input_ADDecLoopCounter"						text="AD: Decrease loop counter" />
-		<text name="input_ADParkVehicle"						text="AD: Parkolja le a járművet" />
-		<text name="input_ADSetParkDestination"					text="AD: assign 1st Destination for parking" />
-		<text name="input_ADRefuelVehicle"						text="AD: Refuel vehicle" />
-		<text name="input_ADRepairVehicle"						text="AD: Repair vehicle" />	
-		<text name="input_ADbunkerUnloadType"					text="AD: Unload to Trailer or BGA" />
-		<text name="input_ADSwapTargets"						text="AD: Cél csere" />
-		<text name="input_ADStartCP"							text="AD: Pass to CP/AIVE" />
-		<text name="input_ADToggleCP_AIVE"						text="AD: Toggle CP/AIVE" />
-		<text name="input_AD_devAction"                         			text="AD: Developer Action" />
-		<text name="input_ADToggleAutomaticPickupTarget"				text="AD: Toggle automatic pickup target" />
-		<text name="input_ADToggleAutomaticUnloadTarget"				text="AD: Toggle automatic unload target" />
-		<text name="input_ADToggleLoadByFillLevel"				text="AD: Toggle loading by fill level" />
-		<text name="hud_avoidFruit"								text="AD: Termény kikerülése" />
-		<text name="hud_startCp"								text="AD: Start CP / AIVE at destination" />
+		<text name="input_ADToggleHud"							text="ADFMGD: HUD be/ki" />
+		<text name="input_ADToggleHudExtension"					text="ADFMGD: Show HUD infos" />
+		<text name="input_ADToggleMouse"						text="ADFMGD: Egér be/ki" />
+		<text name="input_ADEnDisable"							text="ADFMGD: Bekapcsolás/Kikapcsolás" />
+		<text name="input_ADSilomode"							text="ADFMGD: Módváltás" />
+		<text name="input_ADPreviousMode"						text="ADFMGD: Previous mode" />
+		<text name="input_ADRecord"								text="ADFMGD: felvétel" />
+		<text name="input_ADRecord_Dual"						text="ADFMGD: Record 2 way route" />
+		<text name="input_ADRecord_SubPrio"						text="ADFMGD: Record secondary route" />
+		<text name="input_ADRecord_SubPrioDual"					text="ADFMGD: Record 2 way secondary route route" />
+		<text name="input_ADSelectTarget"						text="ADFMGD: Cél választás" />
+		<text name="input_ADSelectPreviousTarget"				text="ADFMGD: Előző cél választás" />
+		<text name="input_AD_Speed_up"							text="ADFMGD: Sebesség növelése " />
+		<text name="input_AD_Speed_down"						text="ADFMGD: Sebesség csökkentése" />
+		<text name="input_AD_routes_manager" 					text="ADFMGD: Útvonalkezelő megnyitása" />
+		<text name="input_AD_open_notification_history" 		text="ADFMGD: Előzmények megnyitása" />
+		<text name="input_AD_continue"							text="ADFMGD: Folytatás" />
+		<text name="input_ADSelectTargetUnload"					text="ADFMGD: Következő kirakodás " />
+		<text name="input_ADSelectPreviousTargetUnload"			text="ADFMGD: Előző kirakodás" />
+		<text name="input_ADActivateDebug"						text="ADFMGD: Szerkesztés" />
+		<text name="input_ADDisplayMapPoints"					text="ADFMGD: Show waypoints" />
+		<text name="input_ADDebugSelectNeighbor"				text="ADFMGD: Szomszédos pont" />
+		<text name="input_ADDebugChangeNeighbor"				text="ADFMGD: Következő szomszédos pont" />
+		<text name="input_ADDebugPreviousNeighbor"				text="ADFMGD: Select previous Neighbour Point" />
+		<text name="input_ADDebugCreateConnection"				text="ADFMGD: Kapcsolat be/ki" />
+		<text name="input_ADDebugToggleConnectionInverted"		text="ADFMGD: Toggle connection between inverted" />
+		<text name="input_ADDebugCreateMapMarker"				text="ADFMGD: Cél létrehozása/szerkesztése" />
+		<text name="input_ADRenameMapMarker"					text="ADFMGD: Kijelölt cél szerkesztése" />
+		<text name="input_ADDebugDeleteWayPoint"				text="ADFMGD: Útpont törlés" />
+		<text name="input_ADDebugDeleteDestination"				text="ADFMGD: A legközelebbi cél törlése " />
+		<text name="input_ADSelectNextFillType"					text="ADFMGD: Következő termék" />
+		<text name="input_ADSelectPreviousFillType"				text="ADFMGD: Előző termék" />
+		<text name="input_ADOpenGUI"							text="ADFMGD: GUI nyitás" />
+		<text name="input_ADCallDriver"							text="ADFMGD: Sofőr felvétel" />
+		<text name="input_ADGoToVehicle"						text="ADFMGD: Váltás az érkezett járműre" />
+		<text name="input_ADNameDriver"							text="ADFMGD: Sofőr elnevezése" />
+		<text name="input_ADSetDestinationFilter"				text="ADFMGD: Destination filter" />
+		<text name="input_AD_FieldSpeed_up"						text="ADFMGD: Increase Field Speed" />
+		<text name="input_AD_FieldSpeed_down"					text="ADFMGD: Decrease Field Speed" />
+		<text name="input_ADIncLoopCounter"						text="ADFMGD: Útvonal ismétlése" />
+		<text name="input_ADDecLoopCounter"						text="ADFMGD: Decrease loop counter" />
+		<text name="input_ADParkVehicle"						text="ADFMGD: Parkolja le a járművet" />
+		<text name="input_ADSetParkDestination"					text="ADFMGD: assign 1st Destination for parking" />
+		<text name="input_ADRefuelVehicle"						text="ADFMGD: Refuel vehicle" />
+		<text name="input_ADRepairVehicle"						text="ADFMGD: Repair vehicle" />	
+		<text name="input_ADbunkerUnloadType"					text="ADFMGD: Unload to Trailer or BGA" />
+		<text name="input_ADSwapTargets"						text="ADFMGD: Cél csere" />
+		<text name="input_ADStartCP"							text="ADFMGD: Pass to CP/AIVE" />
+		<text name="input_ADToggleCP_AIVE"						text="ADFMGD: Toggle CP/AIVE" />
+		<text name="input_AD_devAction"                         			text="ADFMGD: Developer Action" />
+		<text name="input_ADToggleAutomaticPickupTarget"				text="ADFMGD: Toggle automatic pickup target" />
+		<text name="input_ADToggleAutomaticUnloadTarget"				text="ADFMGD: Toggle automatic unload target" />
+		<text name="input_ADToggleLoadByFillLevel"				text="ADFMGD: Toggle loading by fill level" />
+		<text name="hud_avoidFruit"								text="ADFMGD: Termény kikerülése" />
+		<text name="hud_startCp"								text="ADFMGD: Start CP / AIVE at destination" />
 		<text name="AD_parkVehicle_noPosSet"					text="Járműnek nincs parkolója. Jobb egérgombbal rendeljen hozzá parkolási helyet." />
 		<text name="AD_parkVehicle_selected"					text="Kiválasztott parkolóhely: " />
 		<text name="AD_Driver_of"								text="Sofőr ki" />
@@ -227,14 +227,14 @@
 		<text name="gui_ad_autoTrailerCover_tooltip"            text="Igen - az AutoDrive szükség esetén nyissa meg és zárja be a pótkocsi fedelét / Nem - az AutoDrive nem nyitja vagy zárja le a pótkocsi fedelét" />
 		<text name="gui_ad_useForwardTurningManoeuvre"          text="Forwards turning manoeuvre" />
 		<text name="gui_ad_useForwardTurningManoeuvre_tooltip"  text="Yes - AutoDrive unloaders try to plan a path forwards to adapt to 90° turns of the combine. / No - Unloaders will reverse before turn" />
-		<text name="gui_ad_ALUnload"                            text="Autoload: Unload Position" />
+		<text name="gui_ad_ALUnload"                            text="AutoloADFMGD: Unload Position" />
 		<text name="gui_ad_ALUnload_tooltip"                    text="Off-no automatic unload, center-unload on loading platform, left / right vehicle unload position (Position depend on vehicle setup, not AD!)" />
 		<text name="gui_ad_AL_off"                              text="Unload Off" />
 		<text name="gui_ad_AL_center"                           text="Unload center" />
 		<text name="gui_ad_AL_left"                             text="Unload left" />
 		<text name="gui_ad_AL_behind"                           text="Unload behind" />
 		<text name="gui_ad_AL_right"                            text="Unload right" />
-		<text name="gui_ad_ALUnloadWaitTime"                    text="Autoload: wait time after unload" />
+		<text name="gui_ad_ALUnloadWaitTime"                    text="AutoloADFMGD: wait time after unload" />
 		<text name="gui_ad_ALUnloadWaitTime_tooltip"            text="Wait time after unloading, before continue to drive - useful for unload center: 0-no wait, wait selected time" />
 		<text name="gui_ad_scanConfirmationTextTitle"           text="AutoDrive - Network Generation" />
 		<text name="gui_ad_scanConfirmationText"                text="Az AutoDrive generáljon útvonalhálózatot a térképen lévő forgalmi és segédadatokból?" />
@@ -334,7 +334,7 @@
 		<text name = "gui_CPAD_simple"							text = "simple"/>
 		<text name = "gui_CPAD_full"							text = "full"/>		
 		<text name = "gui_ad_combineCPADHudMouse"				text = "combine CP/AD Buttons"/>
-    	<text name = "gui_ad_combineCPADHudMouse_tooltip"		text = "off: default / simple: CP: sec mouse action > mouse on + off, AD: Toggle Hud > both huds on + off / full: as simple but huds toggle in single steps / Required: Disable right click HUD at CP settings"/>
+    	<text name = "gui_ad_combineCPADHudMouse_tooltip"		text = "off: default / simple: CP: sec mouse action > mouse on + off, ADFMGD: Toggle Hud > both huds on + off / full: as simple but huds toggle in single steps / Required: Disable right click HUD at CP settings"/>
 	
 		<text name = "gui_ad_editorTip_1"								text = "Simple left mouse click:"/>
 		<text name = "gui_ad_editorTip_2"								text = "Mouse only: Select 1. point"/>

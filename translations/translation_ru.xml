@@ -3,62 +3,62 @@
 	<translationContributors>Gonimy_Vetrom</translationContributors>
 	<texts>
 		<text name="UNKNOWN"									text="НЕИЗВЕСТНО" />
-		<text name="input_ADToggleHud"							text="AD: HUD" />
-		<text name="input_ADToggleHudExtension"					text="AD: Отображать информацию HUD" />
-		<text name="input_ADToggleMouse"						text="AD: Курсор" />
-		<text name="input_ADEnDisable"							text="AD: Вкл/Выкл" />
-		<text name="input_ADSilomode"							text="AD: Изменить режим" />
-		<text name="input_ADPreviousMode"						text="AD: Предыдущий режим" />
-		<text name="input_ADRecord"								text="AD: Запись" />
-		<text name="input_ADRecord_Dual"						text="AD: Запись двунаправленного пути" />
-		<text name="input_ADRecord_SubPrio"						text="AD: Запись вторичного пути" />
-		<text name="input_ADRecord_SubPrioDual"					text="AD: Запись двунаправленного вторичного пути" />
-		<text name="input_ADSelectTarget"						text="AD: Следующая локация" />
-		<text name="input_ADSelectPreviousTarget"				text="AD: Предыдущая локация" />
-		<text name="input_AD_Speed_up"							text="AD: Увеличить скорость" />
-		<text name="input_AD_Speed_down"						text="AD: Уменьшить скорость" />
-		<text name="input_AD_routes_manager" 					text="AD: Менеджер маршрутов" />
-		<text name="input_AD_open_notification_history" 		text="AD: Открыть историю уведомлений" />
-		<text name="input_AD_open_colorSettings" 		        text="AD: Назначение цветов" />
-		<text name="input_AD_continue"							text="AD: Продолжить" />
-		<text name="input_ADSelectTargetUnload"					text="AD: Следующая точка разгрузки" />
-		<text name="input_ADSelectPreviousTargetUnload"			text="AD: Предыдущая точка разгрузки" />
-		<text name="input_ADActivateDebug"						text="AD: Режим редактирования" />
-		<text name="input_ADDisplayMapPoints"					text="AD: Отобразить путевые точки" />
-		<text name="input_ADDebugSelectNeighbor"				text="AD: Выбрать соседнюю точку" />
-		<text name="input_ADDebugChangeNeighbor"				text="AD: Выбрать следующую соседнюю точку" />
-		<text name="input_ADDebugPreviousNeighbor"				text="AD: Выбрать предыдущую Соседнюю точку" />
-		<text name="input_ADDebugCreateConnection"				text="AD: Установить/Убрать связь между выбранными" />
-		<text name="input_ADDebugToggleConnectionInverted"		text="AD: Переключение соединения между инвертированным" />
-		<text name="input_ADDebugCreateMapMarker"				text="AD: Создать/Редактировать новую локацию" />
-		<text name="input_ADRenameMapMarker"					text="AD: Редактировать выбранную локацию" />
-		<text name="input_ADDebugDeleteWayPoint"				text="AD: Удалить путевую точку" />
-		<text name="input_ADDebugDeleteDestination"				text="AD: Удалить ближайшую локацию" />
-		<text name="input_ADSelectNextFillType"					text="AD: Выбрать следующую продукцию" />
-		<text name="input_ADSelectPreviousFillType"				text="AD: Выбрать предыдущую продукцию" />
-		<text name="input_ADOpenGUI"							text="AD: Настройки" />
-		<text name="input_ADCallDriver"							text="AD: Вызвать разгружающего водителя" />
-		<text name="input_ADGoToVehicle"						text="AD: Пересесть в прибывшую технику" />
-		<text name="input_ADNameDriver"							text="AD: Назначить водителю имя" />
-		<text name="input_ADSetDestinationFilter"				text="AD: Фильтр локаций" />
-		<text name="input_AD_FieldSpeed_up"						text="AD: Увеличить скорость в поле" />
-		<text name="input_AD_FieldSpeed_down"					text="AD: Уменьшить скорость в поле" />
-		<text name="input_ADIncLoopCounter"						text="AD: Установить к-во рейсов" />
-		<text name="input_ADDecLoopCounter"						text="AD: Уменьшить к-во рейсов" />
-		<text name="input_ADbunkerUnloadType"					text="AD: Выгрузить на трейлер или BGA" />
-		<text name="input_ADParkVehicle"						text="AD: Отправить на парковку" />
-		<text name="input_ADSetParkDestination"					text="AD: Назначить 1-ю локацию как парковку" />
-		<text name="input_ADRefuelVehicle"						text="AD: Заправить технику" />
-		<text name="input_ADRepairVehicle"						text="AD: Ремонтировать технику" />
-		<text name="input_ADSwapTargets"						text="AD: Сменить локации" />
-		<text name="input_ADStartCP"							text="AD: Передать управление CP/AIVE" />
-		<text name="input_ADToggleCP_AIVE"						text="AD: Переключение CP/AIVE" />
-		<text name="input_AD_devAction"							text="AD: Действия разработчика" />
-		<text name="input_ADToggleAutomaticPickupTarget"		text="AD: Переключать автоматически цели подбора" />
-		<text name="input_ADToggleAutomaticUnloadTarget"		text="AD: Переключать автоматически цели разгрузки" />
-		<text name="input_ADToggleLoadByFillLevel"				text="AD: Toggle loading by fill level" />
-		<text name="hud_avoidFruit"								text="AD: Избегать посевов" />
-		<text name="hud_startCp"								text="AD: Запустить CP/AIVE в пункте назначения" />
+		<text name="input_ADToggleHud"							text="ADFMGD: HUD" />
+		<text name="input_ADToggleHudExtension"					text="ADFMGD: Отображать информацию HUD" />
+		<text name="input_ADToggleMouse"						text="ADFMGD: Курсор" />
+		<text name="input_ADEnDisable"							text="ADFMGD: Вкл/Выкл" />
+		<text name="input_ADSilomode"							text="ADFMGD: Изменить режим" />
+		<text name="input_ADPreviousMode"						text="ADFMGD: Предыдущий режим" />
+		<text name="input_ADRecord"								text="ADFMGD: Запись" />
+		<text name="input_ADRecord_Dual"						text="ADFMGD: Запись двунаправленного пути" />
+		<text name="input_ADRecord_SubPrio"						text="ADFMGD: Запись вторичного пути" />
+		<text name="input_ADRecord_SubPrioDual"					text="ADFMGD: Запись двунаправленного вторичного пути" />
+		<text name="input_ADSelectTarget"						text="ADFMGD: Следующая локация" />
+		<text name="input_ADSelectPreviousTarget"				text="ADFMGD: Предыдущая локация" />
+		<text name="input_AD_Speed_up"							text="ADFMGD: Увеличить скорость" />
+		<text name="input_AD_Speed_down"						text="ADFMGD: Уменьшить скорость" />
+		<text name="input_AD_routes_manager" 					text="ADFMGD: Менеджер маршрутов" />
+		<text name="input_AD_open_notification_history" 		text="ADFMGD: Открыть историю уведомлений" />
+		<text name="input_AD_open_colorSettings" 		        text="ADFMGD: Назначение цветов" />
+		<text name="input_AD_continue"							text="ADFMGD: Продолжить" />
+		<text name="input_ADSelectTargetUnload"					text="ADFMGD: Следующая точка разгрузки" />
+		<text name="input_ADSelectPreviousTargetUnload"			text="ADFMGD: Предыдущая точка разгрузки" />
+		<text name="input_ADActivateDebug"						text="ADFMGD: Режим редактирования" />
+		<text name="input_ADDisplayMapPoints"					text="ADFMGD: Отобразить путевые точки" />
+		<text name="input_ADDebugSelectNeighbor"				text="ADFMGD: Выбрать соседнюю точку" />
+		<text name="input_ADDebugChangeNeighbor"				text="ADFMGD: Выбрать следующую соседнюю точку" />
+		<text name="input_ADDebugPreviousNeighbor"				text="ADFMGD: Выбрать предыдущую Соседнюю точку" />
+		<text name="input_ADDebugCreateConnection"				text="ADFMGD: Установить/Убрать связь между выбранными" />
+		<text name="input_ADDebugToggleConnectionInverted"		text="ADFMGD: Переключение соединения между инвертированным" />
+		<text name="input_ADDebugCreateMapMarker"				text="ADFMGD: Создать/Редактировать новую локацию" />
+		<text name="input_ADRenameMapMarker"					text="ADFMGD: Редактировать выбранную локацию" />
+		<text name="input_ADDebugDeleteWayPoint"				text="ADFMGD: Удалить путевую точку" />
+		<text name="input_ADDebugDeleteDestination"				text="ADFMGD: Удалить ближайшую локацию" />
+		<text name="input_ADSelectNextFillType"					text="ADFMGD: Выбрать следующую продукцию" />
+		<text name="input_ADSelectPreviousFillType"				text="ADFMGD: Выбрать предыдущую продукцию" />
+		<text name="input_ADOpenGUI"							text="ADFMGD: Настройки" />
+		<text name="input_ADCallDriver"							text="ADFMGD: Вызвать разгружающего водителя" />
+		<text name="input_ADGoToVehicle"						text="ADFMGD: Пересесть в прибывшую технику" />
+		<text name="input_ADNameDriver"							text="ADFMGD: Назначить водителю имя" />
+		<text name="input_ADSetDestinationFilter"				text="ADFMGD: Фильтр локаций" />
+		<text name="input_AD_FieldSpeed_up"						text="ADFMGD: Увеличить скорость в поле" />
+		<text name="input_AD_FieldSpeed_down"					text="ADFMGD: Уменьшить скорость в поле" />
+		<text name="input_ADIncLoopCounter"						text="ADFMGD: Установить к-во рейсов" />
+		<text name="input_ADDecLoopCounter"						text="ADFMGD: Уменьшить к-во рейсов" />
+		<text name="input_ADbunkerUnloadType"					text="ADFMGD: Выгрузить на трейлер или BGA" />
+		<text name="input_ADParkVehicle"						text="ADFMGD: Отправить на парковку" />
+		<text name="input_ADSetParkDestination"					text="ADFMGD: Назначить 1-ю локацию как парковку" />
+		<text name="input_ADRefuelVehicle"						text="ADFMGD: Заправить технику" />
+		<text name="input_ADRepairVehicle"						text="ADFMGD: Ремонтировать технику" />
+		<text name="input_ADSwapTargets"						text="ADFMGD: Сменить локации" />
+		<text name="input_ADStartCP"							text="ADFMGD: Передать управление CP/AIVE" />
+		<text name="input_ADToggleCP_AIVE"						text="ADFMGD: Переключение CP/AIVE" />
+		<text name="input_AD_devAction"							text="ADFMGD: Действия разработчика" />
+		<text name="input_ADToggleAutomaticPickupTarget"		text="ADFMGD: Переключать автоматически цели подбора" />
+		<text name="input_ADToggleAutomaticUnloadTarget"		text="ADFMGD: Переключать автоматически цели разгрузки" />
+		<text name="input_ADToggleLoadByFillLevel"				text="ADFMGD: Toggle loading by fill level" />
+		<text name="hud_avoidFruit"								text="ADFMGD: Избегать посевов" />
+		<text name="hud_startCp"								text="ADFMGD: Запустить CP/AIVE в пункте назначения" />
 		<text name="AD_parkVehicle_noPosSet"					text="Место для парковки не назначено. Чтобы назначить выбранную локацию, как место парковки, нажмите правой кнопкой мыши на этой же кнопке." />
 		<text name="AD_parkVehicle_selected"					text="Выбранное место для парковки: " />
 		<text name="AD_parkVehicle_deleted"					    text="место для парковки удалено!" />
@@ -338,7 +338,7 @@
 		<text name="gui_CPAD_simple"							text="простое"/>
 		<text name="gui_CPAD_full"								text="полное"/>
 		<text name="gui_ad_combineCPADHudMouse"					text="Объединение клавиш CP/AD"/>
-		<text name="gui_ad_combineCPADHudMouse_tooltip"			text="ВЫКЛ: по умолчанию. ПРОСТОЕ: CP: ПКМ > указатель вкл+выкл, AD: скрыть/отобразить HUD > оба HUD вкл+выкл. ПОЛНОЕ: как и ПРОСТОЕ, но оба HUD вкл/выкл индивидуально (у CP необходимо отключить открытие HUD правой кнопкой)."/>
+		<text name="gui_ad_combineCPADHudMouse_tooltip"			text="ВЫКЛ: по умолчанию. ПРОСТОЕ: CP: ПКМ > указатель вкл+выкл, ADFMGD: скрыть/отобразить HUD > оба HUD вкл+выкл. ПОЛНОЕ: как и ПРОСТОЕ, но оба HUD вкл/выкл индивидуально (у CP необходимо отключить открытие HUD правой кнопкой)."/>
 
 		<text name="gui_ad_editorTip_1"							text="Одинарный клик ЛКМ:"/>
 		<text name="gui_ad_editorTip_2"							text="Только мышь: Выбор 1-ой точки"/>

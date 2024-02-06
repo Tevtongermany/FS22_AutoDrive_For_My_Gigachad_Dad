@@ -3,62 +3,62 @@
 	<translationContributors>Bobster</translationContributors>
 	<texts>
 		<text name="UNKNOWN"									text="Onbekend" />
-		<text name="input_ADToggleHud"							text="AD: HUD aan/uitzetten" />
-		<text name="input_ADToggleHudExtension"					text="AD: Laat HUD infos zien" />
-		<text name="input_ADToggleMouse"						text="AD: Muis aan/uitzetten" />
-		<text name="input_ADEnDisable"							text="AD: In/uitschakelen" />
-		<text name="input_ADSilomode"							text="AD: Wijzig modus" />
-		<text name="input_ADPreviousMode"						text="AD: Vorige modus" />
-		<text name="input_ADRecord"								text="AD: Opnemen" />
-		<text name="input_ADRecord_Dual"						text="AD: 2-weg route opnemen" />
-		<text name="input_ADRecord_SubPrio"						text="AD: Aftak route opnemen" />
-		<text name="input_ADRecord_SubPrioDual"					text="AD: 2-weg aftak route opnemen" />
-		<text name="input_ADSelectTarget"						text="AD: Selecteer volgende bestemming" />
-		<text name="input_ADSelectPreviousTarget"				text="AD: Selecteer vorige bestemming" />
-		<text name="input_AD_Speed_up"							text="AD: Verhoog snelheid" />
-		<text name="input_AD_Speed_down"						text="AD: Verlaag snelheid" />
-		<text name="input_AD_routes_manager" 					text="AD: Open routes manager" />
-		<text name="input_AD_open_notification_history" 		text="AD: Open notification history" />
-		<text name="input_AD_open_colorSettings" 				text="AD: Kleur instellingen" /> 
-		<text name="input_AD_continue"							text="AD: Doorrijden" />
-		<text name="input_ADSelectTargetUnload"					text="AD: Selecteer volgende losplaats" />
-		<text name="input_ADSelectPreviousTargetUnload"			text="AD: Selecteer vorige losplaats" />
-		<text name="input_ADActivateDebug"						text="AD: Editor modus" />
-		<text name="input_ADDisplayMapPoints"					text="AD: Laat routepunten zien" />
-		<text name="input_ADDebugSelectNeighbor"				text="AD: Selecteer aangrenzend routepunt" />
-		<text name="input_ADDebugChangeNeighbor"				text="AD: Selecteer volgend aangrenzend routepunt" />
-		<text name="input_ADDebugPreviousNeighbor"				text="AD: Selecteer vorig aangrenzend routepunt" />
-		<text name="input_ADDebugCreateConnection"				text="AD: Verbinding aan/uit" />
-		<text name="input_ADDebugToggleConnectionInverted"		text="AD: Omgekeerde verbinding aan/uit" />
-		<text name="input_ADDebugCreateMapMarker"				text="AD: Maak een nieuwe bestemming" />
-		<text name="input_ADRenameMapMarker"					text="AD: Hernoem huidige bestemming" />
-		<text name="input_ADDebugDeleteWayPoint"				text="AD: Verwijder routepunt" />
-		<text name="input_ADDebugDeleteDestination"				text="AD: Bestemming verwijderen" />
-		<text name="input_ADSelectNextFillType"					text="AD: Selecteer volgende vulling type" />
-		<text name="input_ADSelectPreviousFillType"				text="AD: Selecteer vorige vulling type" />
-		<text name="input_ADOpenGUI"							text="AD: Menu openen" />
-		<text name="input_ADCallDriver"							text="AD: Bestuurder oproepen" />
-		<text name="input_ADGoToVehicle"						text="AD: Ga naar aangekomen voertuig" />
-		<text name="input_ADNameDriver"							text="AD: Wijzig naam van de bestuurder" />
-		<text name="input_ADSetDestinationFilter"				text="AD: Bestemming filter" />
-		<text name="input_AD_FieldSpeed_up"						text="AD: Verhoog veld snelheid" />
-		<text name="input_AD_FieldSpeed_down"					text="AD: Verlaag veld snelheid" />
-		<text name="input_ADIncLoopCounter"						text="AD: Verhoog het aantal herhalingen" />
-		<text name="input_ADDecLoopCounter"						text="AD: Verlaag het aantal herhalingen" />
-		<text name="input_ADbunkerUnloadType"					text="AD: Lossen in aanhanger of BGA" />
-		<text name="input_ADParkVehicle"						text="AD: Parkeer Voertuig" />
-		<text name="input_ADSetParkDestination"					text="AD: Stel 1e bestemming in als parkeerplaats" />
-		<text name="input_ADRefuelVehicle"						text="AD: Voertuig tanken" />
-		<text name="input_ADRepairVehicle"						text="AD: Voertuig repareren" />
-		<text name="input_ADSwapTargets"						text="AD: Bestemmingen verwisselen" />
-		<text name="input_ADStartCP"							text="AD: Overdracht aan CP/AIVE" />
-		<text name="input_ADToggleCP_AIVE"						text="AD: Wissel tussen CP/AIVE" />
-		<text name="input_AD_devAction"                         text="AD: Ontwikkelaars actie" />
-		<text name="input_ADToggleAutomaticPickupTarget"		text="AD: Automatische laad bestemming aan/uit" />
-		<text name="input_ADToggleAutomaticUnloadTarget"		text="AD: Automatische los bestemming aan/uit" />
-		<text name="input_ADToggleLoadByFillLevel"				text="AD: Toggle loading by fill level" />
-		<text name="hud_avoidFruit"								text="AD: Fruit vermijden" />
-		<text name="hud_startCp"								text="AD: Start CP/AIVE op bestemming" />
+		<text name="input_ADToggleHud"							text="ADFMGD: HUD aan/uitzetten" />
+		<text name="input_ADToggleHudExtension"					text="ADFMGD: Laat HUD infos zien" />
+		<text name="input_ADToggleMouse"						text="ADFMGD: Muis aan/uitzetten" />
+		<text name="input_ADEnDisable"							text="ADFMGD: In/uitschakelen" />
+		<text name="input_ADSilomode"							text="ADFMGD: Wijzig modus" />
+		<text name="input_ADPreviousMode"						text="ADFMGD: Vorige modus" />
+		<text name="input_ADRecord"								text="ADFMGD: Opnemen" />
+		<text name="input_ADRecord_Dual"						text="ADFMGD: 2-weg route opnemen" />
+		<text name="input_ADRecord_SubPrio"						text="ADFMGD: Aftak route opnemen" />
+		<text name="input_ADRecord_SubPrioDual"					text="ADFMGD: 2-weg aftak route opnemen" />
+		<text name="input_ADSelectTarget"						text="ADFMGD: Selecteer volgende bestemming" />
+		<text name="input_ADSelectPreviousTarget"				text="ADFMGD: Selecteer vorige bestemming" />
+		<text name="input_AD_Speed_up"							text="ADFMGD: Verhoog snelheid" />
+		<text name="input_AD_Speed_down"						text="ADFMGD: Verlaag snelheid" />
+		<text name="input_AD_routes_manager" 					text="ADFMGD: Open routes manager" />
+		<text name="input_AD_open_notification_history" 		text="ADFMGD: Open notification history" />
+		<text name="input_AD_open_colorSettings" 				text="ADFMGD: Kleur instellingen" /> 
+		<text name="input_AD_continue"							text="ADFMGD: Doorrijden" />
+		<text name="input_ADSelectTargetUnload"					text="ADFMGD: Selecteer volgende losplaats" />
+		<text name="input_ADSelectPreviousTargetUnload"			text="ADFMGD: Selecteer vorige losplaats" />
+		<text name="input_ADActivateDebug"						text="ADFMGD: Editor modus" />
+		<text name="input_ADDisplayMapPoints"					text="ADFMGD: Laat routepunten zien" />
+		<text name="input_ADDebugSelectNeighbor"				text="ADFMGD: Selecteer aangrenzend routepunt" />
+		<text name="input_ADDebugChangeNeighbor"				text="ADFMGD: Selecteer volgend aangrenzend routepunt" />
+		<text name="input_ADDebugPreviousNeighbor"				text="ADFMGD: Selecteer vorig aangrenzend routepunt" />
+		<text name="input_ADDebugCreateConnection"				text="ADFMGD: Verbinding aan/uit" />
+		<text name="input_ADDebugToggleConnectionInverted"		text="ADFMGD: Omgekeerde verbinding aan/uit" />
+		<text name="input_ADDebugCreateMapMarker"				text="ADFMGD: Maak een nieuwe bestemming" />
+		<text name="input_ADRenameMapMarker"					text="ADFMGD: Hernoem huidige bestemming" />
+		<text name="input_ADDebugDeleteWayPoint"				text="ADFMGD: Verwijder routepunt" />
+		<text name="input_ADDebugDeleteDestination"				text="ADFMGD: Bestemming verwijderen" />
+		<text name="input_ADSelectNextFillType"					text="ADFMGD: Selecteer volgende vulling type" />
+		<text name="input_ADSelectPreviousFillType"				text="ADFMGD: Selecteer vorige vulling type" />
+		<text name="input_ADOpenGUI"							text="ADFMGD: Menu openen" />
+		<text name="input_ADCallDriver"							text="ADFMGD: Bestuurder oproepen" />
+		<text name="input_ADGoToVehicle"						text="ADFMGD: Ga naar aangekomen voertuig" />
+		<text name="input_ADNameDriver"							text="ADFMGD: Wijzig naam van de bestuurder" />
+		<text name="input_ADSetDestinationFilter"				text="ADFMGD: Bestemming filter" />
+		<text name="input_AD_FieldSpeed_up"						text="ADFMGD: Verhoog veld snelheid" />
+		<text name="input_AD_FieldSpeed_down"					text="ADFMGD: Verlaag veld snelheid" />
+		<text name="input_ADIncLoopCounter"						text="ADFMGD: Verhoog het aantal herhalingen" />
+		<text name="input_ADDecLoopCounter"						text="ADFMGD: Verlaag het aantal herhalingen" />
+		<text name="input_ADbunkerUnloadType"					text="ADFMGD: Lossen in aanhanger of BGA" />
+		<text name="input_ADParkVehicle"						text="ADFMGD: Parkeer Voertuig" />
+		<text name="input_ADSetParkDestination"					text="ADFMGD: Stel 1e bestemming in als parkeerplaats" />
+		<text name="input_ADRefuelVehicle"						text="ADFMGD: Voertuig tanken" />
+		<text name="input_ADRepairVehicle"						text="ADFMGD: Voertuig repareren" />
+		<text name="input_ADSwapTargets"						text="ADFMGD: Bestemmingen verwisselen" />
+		<text name="input_ADStartCP"							text="ADFMGD: Overdracht aan CP/AIVE" />
+		<text name="input_ADToggleCP_AIVE"						text="ADFMGD: Wissel tussen CP/AIVE" />
+		<text name="input_AD_devAction"                         text="ADFMGD: Ontwikkelaars actie" />
+		<text name="input_ADToggleAutomaticPickupTarget"		text="ADFMGD: Automatische laad bestemming aan/uit" />
+		<text name="input_ADToggleAutomaticUnloadTarget"		text="ADFMGD: Automatische los bestemming aan/uit" />
+		<text name="input_ADToggleLoadByFillLevel"				text="ADFMGD: Toggle loading by fill level" />
+		<text name="hud_avoidFruit"								text="ADFMGD: Fruit vermijden" />
+		<text name="hud_startCp"								text="ADFMGD: Start CP/AIVE op bestemming" />
 		<text name="AD_parkVehicle_noPosSet"					text="Geen parkeerbestemming toegewezen. Wijzig het momenteel geselecteerde bestemming toe met de rechtermuisknop." />
 		<text name="AD_parkVehicle_selected"					text="Toegewezen als parkeerplaats: " />
 		<text name="AD_parkVehicle_deleted"					    text="Parkeerplaats verwijderd" />
@@ -231,14 +231,14 @@
 		<text name="gui_ad_autoTrailerCover_tooltip"            text="Ja - AutoDrive opent en sluit de aanhanger afdekking wanneer nodig / Nee - aanhangwagen afdekking wordt niet geopend of gesloten door AutoDrive" />
 		<text name="gui_ad_useForwardTurningManoeuvre"          text="Vooruit draaiende manoeuvre" />
 		<text name="gui_ad_useForwardTurningManoeuvre_tooltip"  text="Ja - AutoDrive lossers proberen een pad naar voren te plannen om zich aan te passen aan de 90° draaiingen van de oogstmachine. / Nee - ontladers zullen omkeren voor ze draaien" />
-		<text name="gui_ad_ALUnload"                            text="Autoload: Los positie" />
+		<text name="gui_ad_ALUnload"                            text="AutoloADFMGD: Los positie" />
 		<text name="gui_ad_ALUnload_tooltip"                    text="Uit-niet automatisch lossen, midden-centraal lossen op de laadplaats, links-/ rechts-/ lospositie van het voertuig (De positie hangt af van de instelling van het voertuig, niet van AD!)" />
 		<text name="gui_ad_AL_off"                              text="Lossen uit" />
 		<text name="gui_ad_AL_center"                           text="Lossen midden" />
 		<text name="gui_ad_AL_left"                             text="Lossen links" />
 		<text name="gui_ad_AL_behind"                           text="Lossen achter" />
 		<text name="gui_ad_AL_right"                            text="Lossen rechts" />
-		<text name="gui_ad_ALUnloadWaitTime"                    text="Autoload: wachttijd na het lossen" />
+		<text name="gui_ad_ALUnloadWaitTime"                    text="AutoloADFMGD: wachttijd na het lossen" />
 		<text name="gui_ad_ALUnloadWaitTime_tooltip"            text="Wachttijd na het lossen, alvorens verder te rijden - nuttig voor losen midden: 0-geen wachttijd, wacht gekozen tijd" />
 		<text name="gui_ad_scanConfirmationTextTitle"           text="AutoDrive - Netwerk Generatie" />
 		<text name="gui_ad_scanConfirmationText"                text="Moet AutoDrive een routenetwerk genereren uit de verkeers- en helpergegevens op de kaart?" />
@@ -342,7 +342,7 @@
 		<text name="gui_CPAD_simple"							text="simpel"/>
 		<text name="gui_CPAD_full"								text="vol"/>	
 		<text name="gui_ad_combineCPADHudMouse"					text="Combineer CP/AD knoppen"/>
-    	<text name="gui_ad_combineCPADHudMouse_tooltip"			text="uit: standaard / simpel: CP: 2e muis actie > muis aan + uit, AD: tonen/verbergen Hud > beide huds aan + uit / vol: als simpel, maar huds tonen/verbergen in engele stap / Vereist: Schakel rechtsklik HUD uit bij CP instellingen"/>
+    	<text name="gui_ad_combineCPADHudMouse_tooltip"			text="uit: standaard / simpel: CP: 2e muis actie > muis aan + uit, ADFMGD: tonen/verbergen Hud > beide huds aan + uit / vol: als simpel, maar huds tonen/verbergen in engele stap / Vereist: Schakel rechtsklik HUD uit bij CP instellingen"/>
 	
 		<text name = "gui_ad_editorTip_1"								text = "Eenvoudige linker muisklik:"/>
 		<text name = "gui_ad_editorTip_2"								text = "Alleen muis: 1 punt selecteren"/>

@@ -3,61 +3,61 @@
 	<translationContributors>HSayar</translationContributors>
 	<texts>
         <text name="UNKNOWN"                                                                                text="Bilinmeyen"  />
-        <text name="input_ADToggleHud"                                                                      text="AD: HUD'yi aç / kapat"  />
-		<text name="input_ADToggleHudExtension"					                                                    text="AD: Show HUD infos" />
-        <text name="input_ADToggleMouse"                                                                    text="AD: Fareyi Değiştir"  />
-        <text name="input_ADEnDisable"                                                                      text="AD: Etkinleştir / Devre Dışı Bırak"  />
-        <text name="input_ADSilomode"                                                                       text="AD: Modu değiştir"  />
-		<text name="input_ADPreviousMode"						text="AD: Previous mode" />
-        <text name="input_ADRecord"                                                                         text="AD: Kaydet"  />
-		<text name="input_ADRecord_Dual"						text="AD: Record 2 way route" />
-		<text name="input_ADRecord_SubPrio"						text="AD: Record secondary route" />
-		<text name="input_ADRecord_SubPrioDual"					text="AD: Record 2 way secondary route route" />
-        <text name="input_ADSelectTarget"                                                                   text="AD: Sonraki Hedefi Seçin"  />
-        <text name="input_ADSelectPreviousTarget"                                                           text="AD: Önceki Hedefi Seçin"  />
-        <text name="input_AD_Speed_up"                                                                      text="AD: Hızı Artırın"  />
-        <text name="input_AD_Speed_down"                                                                    text="AD: Hızı Azaltın"  />
-        <text name="input_AD_routes_manager"                                                                text="AD: Yol yöneticisini aç"  />
-        <text name="input_AD_open_notification_history"                                                     text="AD: Bildirim geçmişini aç"  />
-        <text name="input_AD_continue"                                                                      text="AD: Devam et"  />
-        <text name="input_ADSelectTargetUnload"                                                             text="AD: Sonraki Boşaltmayı Seçin"  />
-        <text name="input_ADSelectPreviousTargetUnload"                                                     text="AD: Önceki Boşaltmayı Seçin"  />
-        <text name="input_ADActivateDebug"                                                                  text="AD: Düzenleme Modu"  />
-		<text name="input_ADDisplayMapPoints"					text="AD: Show waypoints" />
-        <text name="input_ADDebugSelectNeighbor"                                                            text="AD: Komşu Noktayı Seçin"  />
-        <text name="input_ADDebugChangeNeighbor"                                                            text="AD: Sonraki Komşu Noktasını Seçin"  />
-		<text name="input_ADDebugPreviousNeighbor"				text="AD: Select previous Neighbour Point" />
-        <text name="input_ADDebugCreateConnection"                                                          text="AD: Bağlantıyı değiştir."  />
-		<text name="input_ADDebugToggleConnectionInverted"		text="AD: Toggle connection between inverted" />
-        <text name="input_ADDebugCreateMapMarker"                                                           text="AD: Hedef Ekle / Düzenle"  />
-        <text name="input_ADRenameMapMarker"                                                                text="AD: Seçili Hedefi düzenleyin"  />
-        <text name="input_ADDebugDeleteWayPoint"                                                            text="AD: Ara Noktayı Sil"  />
-        <text name="input_ADDebugDeleteDestination"                                                         text="AD: En yakın Hedefi Sil"  />
-        <text name="input_ADSelectNextFillType"                                                             text="AD: Sonraki Dolum Türünü Seçin"  />
-        <text name="input_ADSelectPreviousFillType"                                                         text="AD: Önceki Dolum Türünü Seçin"  />
-        <text name="input_ADOpenGUI"                                                                        text="AD: GUI'yi aç"  />
-        <text name="input_ADCallDriver"                                                                     text="AD: Sürücüyü Arayın"  />
-        <text name="input_ADGoToVehicle"                                                                    text="AD: Gelen araca git"  />
-        <text name="input_ADNameDriver"                                                                     text="AD: Sürücü adını atayın"  />
-		<text name="input_ADSetDestinationFilter"				text="AD: Destination filter" />
-		<text name="input_AD_FieldSpeed_up"						text="AD: Increase Field Speed" />
-		<text name="input_AD_FieldSpeed_down"					text="AD: Decrease Field Speed" />
-        <text name="input_ADIncLoopCounter"                                                                 text="AD: Döngü sayacını artırın"  />
-		<text name="input_ADDecLoopCounter"						text="AD: Decrease loop counter" />
-		<text name="input_ADbunkerUnloadType"					                                                      text="AD: Unload to Trailer or BGA" />
-        <text name="input_ADParkVehicle"                                                                    text="AD: Aracı park et"  />
-		<text name="input_ADSetParkDestination"					text="AD: assign 1st Destination for parking" />
-		<text name="input_ADRefuelVehicle"						                                                      text="AD: Refuel vehicle" />
-		<text name="input_ADRepairVehicle"						text="AD: Repair vehicle" />	
-        <text name="input_ADSwapTargets"                                                                    text="AD: Hedefleri değiştir"  />
-		<text name="input_ADStartCP"							text="AD: Pass to CP/AIVE" />
-		<text name="input_ADToggleCP_AIVE"						text="AD: Toggle CP/AIVE" />
-		<text name="input_AD_devAction"                         			                                      text="AD: Developer Action" />
-		<text name="input_ADToggleAutomaticPickupTarget"				text="AD: Toggle automatic pickup target" />
-		<text name="input_ADToggleAutomaticUnloadTarget"				text="AD: Toggle automatic unload target" />
-        <text name="input_ADToggleLoadByFillLevel"				text="AD: Toggle loading by fill level" />
-        <text name="hud_avoidFruit"                                                                         text="AD: Meyvelerden kaçının"  />
-        <text name="hud_startCp"                                                                            text="AD: CP / AIVE'ı varış noktasında başlatın"  />
+        <text name="input_ADToggleHud"                                                                      text="ADFMGD: HUD'yi aç / kapat"  />
+		<text name="input_ADToggleHudExtension"					                                                    text="ADFMGD: Show HUD infos" />
+        <text name="input_ADToggleMouse"                                                                    text="ADFMGD: Fareyi Değiştir"  />
+        <text name="input_ADEnDisable"                                                                      text="ADFMGD: Etkinleştir / Devre Dışı Bırak"  />
+        <text name="input_ADSilomode"                                                                       text="ADFMGD: Modu değiştir"  />
+		<text name="input_ADPreviousMode"						text="ADFMGD: Previous mode" />
+        <text name="input_ADRecord"                                                                         text="ADFMGD: Kaydet"  />
+		<text name="input_ADRecord_Dual"						text="ADFMGD: Record 2 way route" />
+		<text name="input_ADRecord_SubPrio"						text="ADFMGD: Record secondary route" />
+		<text name="input_ADRecord_SubPrioDual"					text="ADFMGD: Record 2 way secondary route route" />
+        <text name="input_ADSelectTarget"                                                                   text="ADFMGD: Sonraki Hedefi Seçin"  />
+        <text name="input_ADSelectPreviousTarget"                                                           text="ADFMGD: Önceki Hedefi Seçin"  />
+        <text name="input_AD_Speed_up"                                                                      text="ADFMGD: Hızı Artırın"  />
+        <text name="input_AD_Speed_down"                                                                    text="ADFMGD: Hızı Azaltın"  />
+        <text name="input_AD_routes_manager"                                                                text="ADFMGD: Yol yöneticisini aç"  />
+        <text name="input_AD_open_notification_history"                                                     text="ADFMGD: Bildirim geçmişini aç"  />
+        <text name="input_AD_continue"                                                                      text="ADFMGD: Devam et"  />
+        <text name="input_ADSelectTargetUnload"                                                             text="ADFMGD: Sonraki Boşaltmayı Seçin"  />
+        <text name="input_ADSelectPreviousTargetUnload"                                                     text="ADFMGD: Önceki Boşaltmayı Seçin"  />
+        <text name="input_ADActivateDebug"                                                                  text="ADFMGD: Düzenleme Modu"  />
+		<text name="input_ADDisplayMapPoints"					text="ADFMGD: Show waypoints" />
+        <text name="input_ADDebugSelectNeighbor"                                                            text="ADFMGD: Komşu Noktayı Seçin"  />
+        <text name="input_ADDebugChangeNeighbor"                                                            text="ADFMGD: Sonraki Komşu Noktasını Seçin"  />
+		<text name="input_ADDebugPreviousNeighbor"				text="ADFMGD: Select previous Neighbour Point" />
+        <text name="input_ADDebugCreateConnection"                                                          text="ADFMGD: Bağlantıyı değiştir."  />
+		<text name="input_ADDebugToggleConnectionInverted"		text="ADFMGD: Toggle connection between inverted" />
+        <text name="input_ADDebugCreateMapMarker"                                                           text="ADFMGD: Hedef Ekle / Düzenle"  />
+        <text name="input_ADRenameMapMarker"                                                                text="ADFMGD: Seçili Hedefi düzenleyin"  />
+        <text name="input_ADDebugDeleteWayPoint"                                                            text="ADFMGD: Ara Noktayı Sil"  />
+        <text name="input_ADDebugDeleteDestination"                                                         text="ADFMGD: En yakın Hedefi Sil"  />
+        <text name="input_ADSelectNextFillType"                                                             text="ADFMGD: Sonraki Dolum Türünü Seçin"  />
+        <text name="input_ADSelectPreviousFillType"                                                         text="ADFMGD: Önceki Dolum Türünü Seçin"  />
+        <text name="input_ADOpenGUI"                                                                        text="ADFMGD: GUI'yi aç"  />
+        <text name="input_ADCallDriver"                                                                     text="ADFMGD: Sürücüyü Arayın"  />
+        <text name="input_ADGoToVehicle"                                                                    text="ADFMGD: Gelen araca git"  />
+        <text name="input_ADNameDriver"                                                                     text="ADFMGD: Sürücü adını atayın"  />
+		<text name="input_ADSetDestinationFilter"				text="ADFMGD: Destination filter" />
+		<text name="input_AD_FieldSpeed_up"						text="ADFMGD: Increase Field Speed" />
+		<text name="input_AD_FieldSpeed_down"					text="ADFMGD: Decrease Field Speed" />
+        <text name="input_ADIncLoopCounter"                                                                 text="ADFMGD: Döngü sayacını artırın"  />
+		<text name="input_ADDecLoopCounter"						text="ADFMGD: Decrease loop counter" />
+		<text name="input_ADbunkerUnloadType"					                                                      text="ADFMGD: Unload to Trailer or BGA" />
+        <text name="input_ADParkVehicle"                                                                    text="ADFMGD: Aracı park et"  />
+		<text name="input_ADSetParkDestination"					text="ADFMGD: assign 1st Destination for parking" />
+		<text name="input_ADRefuelVehicle"						                                                      text="ADFMGD: Refuel vehicle" />
+		<text name="input_ADRepairVehicle"						text="ADFMGD: Repair vehicle" />	
+        <text name="input_ADSwapTargets"                                                                    text="ADFMGD: Hedefleri değiştir"  />
+		<text name="input_ADStartCP"							text="ADFMGD: Pass to CP/AIVE" />
+		<text name="input_ADToggleCP_AIVE"						text="ADFMGD: Toggle CP/AIVE" />
+		<text name="input_AD_devAction"                         			                                      text="ADFMGD: Developer Action" />
+		<text name="input_ADToggleAutomaticPickupTarget"				text="ADFMGD: Toggle automatic pickup target" />
+		<text name="input_ADToggleAutomaticUnloadTarget"				text="ADFMGD: Toggle automatic unload target" />
+        <text name="input_ADToggleLoadByFillLevel"				text="ADFMGD: Toggle loading by fill level" />
+        <text name="hud_avoidFruit"                                                                         text="ADFMGD: Meyvelerden kaçının"  />
+        <text name="hud_startCp"                                                                            text="ADFMGD: CP / AIVE'ı varış noktasında başlatın"  />
         <text name="AD_parkVehicle_noPosSet"                                                                text="Park yeri atanmadı. Lütfen halihazırda seçili olan hedefi sağ fare tuşu ile atayın."  />
         <text name="AD_parkVehicle_selected"                                                                text="Seçilen park yeri:"  />
         <text name="AD_Driver_of"                                                                           text="Sürücüsü"  />
@@ -227,14 +227,14 @@
         <text name="gui_ad_autoTrailerCover_tooltip"                                                        text="Evet - AutoDrive gerektiğinde römork kapaklarını açıp kapat / Hayır - römork kapakları AutoDrive tarafından açılmayacak veya kapanmayacak"  />
         <text name="gui_ad_useForwardTurningManoeuvre"                                                      text="Forwards turning manoeuvre" />
         <text name="gui_ad_useForwardTurningManoeuvre_tooltip"                                              text="Yes - AutoDrive unloaders try to plan a path forwards to adapt to 90° turns of the combine. / No - Unloaders will reverse before turn" />
-		<text name="gui_ad_ALUnload"                            text="AutoLoad: Unload Position" />
+		<text name="gui_ad_ALUnload"                            text="AutoLoADFMGD: Unload Position" />
 		<text name="gui_ad_ALUnload_tooltip"                    text="Off-no automatic unload, center-unload on loading platform, left / right vehicle unload position (Position depend on vehicle setup, not AD!)" />
 		<text name="gui_ad_AL_off"                              text="Unload Off" />
 		<text name="gui_ad_AL_center"                           text="Unload center" />
 		<text name="gui_ad_AL_left"                             text="Unload left" />
 		<text name="gui_ad_AL_behind"                           text="Unload behind" />
 		<text name="gui_ad_AL_right"                            text="Unload right" />
-		<text name="gui_ad_ALUnloadWaitTime"                    text="AutoLoad: wait time after unload" />
+		<text name="gui_ad_ALUnloadWaitTime"                    text="AutoLoADFMGD: wait time after unload" />
 		<text name="gui_ad_ALUnloadWaitTime_tooltip"            text="Wait time after unloading, before continue to drive - useful for unload center: 0-no wait, wait selected time" />
 		<text name="gui_ad_scanConfirmationTextTitle"           text="AutoDrive - Network Generation" />
 		<text name="gui_ad_scanConfirmationText"                text="Should AutoDrive generate a route network from the traffic and helper data on the map?" />
@@ -338,7 +338,7 @@
 		<text name = "gui_CPAD_simple"							text = "simple"/>
 		<text name = "gui_CPAD_full"							text = "full"/>		
 		<text name = "gui_ad_combineCPADHudMouse"				text = "combine CP/AD Buttons"/>
-        <text name = "gui_ad_combineCPADHudMouse_tooltip"		text = "off: default / simple: CP: sec mouse action > mouse on + off, AD: Toggle Hud > both huds on + off / full: as simple but huds toggle in single steps / Required: Disable right click HUD at CP settings"/>
+        <text name = "gui_ad_combineCPADHudMouse_tooltip"		text = "off: default / simple: CP: sec mouse action > mouse on + off, ADFMGD: Toggle Hud > both huds on + off / full: as simple but huds toggle in single steps / Required: Disable right click HUD at CP settings"/>
 
 		<text name = "gui_ad_editorTip_1"								text = "Simple left mouse click:"/>
 		<text name = "gui_ad_editorTip_2"								text = "Mouse only: Select 1. point"/>

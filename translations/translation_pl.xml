@@ -3,63 +3,63 @@
 	<translationContributors>Criss20ster, Dzi4d3k</translationContributors>
 	<texts>
 		<text name="UNKNOWN"									text="Nieznany" />
-		<text name="input_ADToggleHud"							text="AD: Pokaż/ukryj interfejs" />
-		<text name="input_ADToggleHudExtension"					text="AD: Pokaż informacje w interfejsie" />
-		<text name="input_ADToggleMouse"						text="AD: Pokaż/ukryj kursor" />
-		<text name="input_ADEnDisable"							text="AD: wł./wył." />
-		<text name="input_ADSilomode"							text="AD: Zmień tryb" />
-		<text name="input_ADPreviousMode"						text="AD: Poprzedni tryb" />
-		<text name="input_ADRecord"								text="AD: Nagrywanie" />
-		<text name="input_ADRecord_Dual"						text="AD: Nagraj trasę dwukierunkową" />
-		<text name="input_ADRecord_SubPrio"						text="AD: Nagraj boczną trasę" />
-		<text name="input_ADRecord_SubPrioDual"					text="AD: Nagraj boczną trasę dwukierunkową" />
-		<text name="input_ADSelectTarget"						text="AD: Wybierz następny cel" />
-		<text name="input_ADSelectPreviousTarget"				text="AD: Wybierz poprzedni cel" />
-		<text name="input_AD_Speed_up"							text="AD: Zwiększ prędkość" />
-		<text name="input_AD_Speed_down"						text="AD: Zmniejsz prędkość" />
-		<text name="input_AD_routes_manager" 					text="AD: Otwórz manager tras" />
-		<text name="input_AD_open_notification_history" 		text="AD: Otwórz historię powiadomień" />
-		<text name="input_AD_open_colorSettings" 		        text="AD: Przypisywanie kolorów" />
-		<text name="input_AD_continue"							text="AD: Kontynuuj" />
-		<text name="input_ADSelectTargetUnload"					text="AD: Następny punkt rozładunku" />
-		<text name="input_ADSelectPreviousTargetUnload"			text="AD: Poprzedni punkt rozładunku" />
-		<text name="input_ADActivateDebug"						text="AD: Tryb edycji" />
-		<text name="input_ADDisplayMapPoints"					text="AD: Pokaż punkty trasy" />
-		<text name="input_ADDebugSelectNeighbor"				text="AD: Wybierz sąsiadujący punkt" />
-		<text name="input_ADDebugChangeNeighbor"				text="AD: Wybierz następny sąsiadujący punkt" />
-		<text name="input_ADDebugPreviousNeighbor"				text="AD: Wybierz poprzedni sąsiadujący punkt" />
-		<text name="input_ADDebugCreateConnection"				text="AD: Utwórz połączenie" />
-		<text name="input_ADDebugToggleConnectionInverted"		text="AD: Utwórz odwrócone połączenie" />
-		<text name="input_ADDebugCreateMapMarker"				text="AD: Utwórz/edytuj cel" />
-		<text name="input_ADRenameMapMarker"					text="AD: Edytuj wybrany cel" />
-		<text name="input_ADDebugDeleteWayPoint"				text="AD: Usuń punkt trasy" />
-		<text name="input_ADDebugDeleteDestination"				text="AD: Usuń najbliższy cel" />
-		<text name="input_ADSelectNextFillType"					text="AD: Następny rodzaj ładunku" />
-		<text name="input_ADSelectPreviousFillType"				text="AD: Poprzedni rodzaj ładunku" />
-		<text name="input_ADOpenGUI"							text="AD: Otwórz menu" />
-		<text name="input_ADCallDriver"							text="AD: Przywołaj kierowcę" />
-		<text name="input_ADGoToVehicle"						text="AD: Zmień na podstawiony pojazd" />
-		<text name="input_ADNameDriver"							text="AD: Przypisz nazwę kierowcy" />
-		<text name="input_ADSetDestinationFilter"				text="AD: Filtr celów" />
-		<text name="input_AD_FieldSpeed_up"						text="AD: Zwiększ prędkość na polu" />
-		<text name="input_AD_FieldSpeed_down"					text="AD: Zmniejsz prędkość na polu" />
-		<text name="input_ADIncLoopCounter"						text="AD: Zwiększ liczbę powtórzeń" />
-		<text name="input_ADDecLoopCounter"						text="AD: Zmniejsz liczbę powtórzeń" />
-		<text name="input_ADbunkerUnloadType"					text="AD: Wyładuj na przyczepę lub do silosu" />
-		<text name="input_ADParkVehicle"						text="AD: Zaparkuj pojazd" />
-		<text name="input_ADSetParkDestination"					text="AD: Przypisz pierwszy cel do parkowania" />
-		<text name="input_ADRefuelVehicle"						text="AD: Zatankuj pojazd" />
-		<text name="input_ADRepairVehicle"						text="AD: Napraw pojazd" />	
-		<text name="input_ADSwapTargets"						text="AD: Zamień cele" />
-		<text name="input_ADStartCP"							text="AD: Przekaż do CP/AIVE" />
-		<text name="input_ADToggleCP_AIVE"						text="AD: Przełącz CP/AIVE" />
-		<text name="input_AD_devAction"                         text="AD: Akcja deweloperska" />
-		<text name="input_AD_open_tipOfTheDay" 					text="AD: Otwórz podpowiedź dnia" />
-		<text name="input_ADToggleAutomaticPickupTarget"				text="AD: Wybierz automatycznie cel ładowania" />
-		<text name="input_ADToggleAutomaticUnloadTarget"				text="AD: Wybierz automatycznie cel rozładowania" />
-		<text name="input_ADToggleLoadByFillLevel"				text="AD: Toggle loading by fill level" />
-		<text name="hud_avoidFruit"								text="AD: Unikaj upraw" />
-		<text name="hud_startCp"								text="AD: Uruchom CP / AIVE po dotarciu do celu" />
+		<text name="input_ADToggleHud"							text="ADFMGD: Pokaż/ukryj interfejs" />
+		<text name="input_ADToggleHudExtension"					text="ADFMGD: Pokaż informacje w interfejsie" />
+		<text name="input_ADToggleMouse"						text="ADFMGD: Pokaż/ukryj kursor" />
+		<text name="input_ADEnDisable"							text="ADFMGD: wł./wył." />
+		<text name="input_ADSilomode"							text="ADFMGD: Zmień tryb" />
+		<text name="input_ADPreviousMode"						text="ADFMGD: Poprzedni tryb" />
+		<text name="input_ADRecord"								text="ADFMGD: Nagrywanie" />
+		<text name="input_ADRecord_Dual"						text="ADFMGD: Nagraj trasę dwukierunkową" />
+		<text name="input_ADRecord_SubPrio"						text="ADFMGD: Nagraj boczną trasę" />
+		<text name="input_ADRecord_SubPrioDual"					text="ADFMGD: Nagraj boczną trasę dwukierunkową" />
+		<text name="input_ADSelectTarget"						text="ADFMGD: Wybierz następny cel" />
+		<text name="input_ADSelectPreviousTarget"				text="ADFMGD: Wybierz poprzedni cel" />
+		<text name="input_AD_Speed_up"							text="ADFMGD: Zwiększ prędkość" />
+		<text name="input_AD_Speed_down"						text="ADFMGD: Zmniejsz prędkość" />
+		<text name="input_AD_routes_manager" 					text="ADFMGD: Otwórz manager tras" />
+		<text name="input_AD_open_notification_history" 		text="ADFMGD: Otwórz historię powiadomień" />
+		<text name="input_AD_open_colorSettings" 		        text="ADFMGD: Przypisywanie kolorów" />
+		<text name="input_AD_continue"							text="ADFMGD: Kontynuuj" />
+		<text name="input_ADSelectTargetUnload"					text="ADFMGD: Następny punkt rozładunku" />
+		<text name="input_ADSelectPreviousTargetUnload"			text="ADFMGD: Poprzedni punkt rozładunku" />
+		<text name="input_ADActivateDebug"						text="ADFMGD: Tryb edycji" />
+		<text name="input_ADDisplayMapPoints"					text="ADFMGD: Pokaż punkty trasy" />
+		<text name="input_ADDebugSelectNeighbor"				text="ADFMGD: Wybierz sąsiadujący punkt" />
+		<text name="input_ADDebugChangeNeighbor"				text="ADFMGD: Wybierz następny sąsiadujący punkt" />
+		<text name="input_ADDebugPreviousNeighbor"				text="ADFMGD: Wybierz poprzedni sąsiadujący punkt" />
+		<text name="input_ADDebugCreateConnection"				text="ADFMGD: Utwórz połączenie" />
+		<text name="input_ADDebugToggleConnectionInverted"		text="ADFMGD: Utwórz odwrócone połączenie" />
+		<text name="input_ADDebugCreateMapMarker"				text="ADFMGD: Utwórz/edytuj cel" />
+		<text name="input_ADRenameMapMarker"					text="ADFMGD: Edytuj wybrany cel" />
+		<text name="input_ADDebugDeleteWayPoint"				text="ADFMGD: Usuń punkt trasy" />
+		<text name="input_ADDebugDeleteDestination"				text="ADFMGD: Usuń najbliższy cel" />
+		<text name="input_ADSelectNextFillType"					text="ADFMGD: Następny rodzaj ładunku" />
+		<text name="input_ADSelectPreviousFillType"				text="ADFMGD: Poprzedni rodzaj ładunku" />
+		<text name="input_ADOpenGUI"							text="ADFMGD: Otwórz menu" />
+		<text name="input_ADCallDriver"							text="ADFMGD: Przywołaj kierowcę" />
+		<text name="input_ADGoToVehicle"						text="ADFMGD: Zmień na podstawiony pojazd" />
+		<text name="input_ADNameDriver"							text="ADFMGD: Przypisz nazwę kierowcy" />
+		<text name="input_ADSetDestinationFilter"				text="ADFMGD: Filtr celów" />
+		<text name="input_AD_FieldSpeed_up"						text="ADFMGD: Zwiększ prędkość na polu" />
+		<text name="input_AD_FieldSpeed_down"					text="ADFMGD: Zmniejsz prędkość na polu" />
+		<text name="input_ADIncLoopCounter"						text="ADFMGD: Zwiększ liczbę powtórzeń" />
+		<text name="input_ADDecLoopCounter"						text="ADFMGD: Zmniejsz liczbę powtórzeń" />
+		<text name="input_ADbunkerUnloadType"					text="ADFMGD: Wyładuj na przyczepę lub do silosu" />
+		<text name="input_ADParkVehicle"						text="ADFMGD: Zaparkuj pojazd" />
+		<text name="input_ADSetParkDestination"					text="ADFMGD: Przypisz pierwszy cel do parkowania" />
+		<text name="input_ADRefuelVehicle"						text="ADFMGD: Zatankuj pojazd" />
+		<text name="input_ADRepairVehicle"						text="ADFMGD: Napraw pojazd" />	
+		<text name="input_ADSwapTargets"						text="ADFMGD: Zamień cele" />
+		<text name="input_ADStartCP"							text="ADFMGD: Przekaż do CP/AIVE" />
+		<text name="input_ADToggleCP_AIVE"						text="ADFMGD: Przełącz CP/AIVE" />
+		<text name="input_AD_devAction"                         text="ADFMGD: Akcja deweloperska" />
+		<text name="input_AD_open_tipOfTheDay" 					text="ADFMGD: Otwórz podpowiedź dnia" />
+		<text name="input_ADToggleAutomaticPickupTarget"				text="ADFMGD: Wybierz automatycznie cel ładowania" />
+		<text name="input_ADToggleAutomaticUnloadTarget"				text="ADFMGD: Wybierz automatycznie cel rozładowania" />
+		<text name="input_ADToggleLoadByFillLevel"				text="ADFMGD: Toggle loading by fill level" />
+		<text name="hud_avoidFruit"								text="ADFMGD: Unikaj upraw" />
+		<text name="hud_startCp"								text="ADFMGD: Uruchom CP / AIVE po dotarciu do celu" />
 		<text name="AD_parkVehicle_noPosSet"					text="Nie przydzielono parkingu." />
 		<text name="AD_parkVehicle_selected"					text="Obecnie wybrany parking: " />
 		<text name="AD_parkVehicle_deleted"					    text="miejsce parkowania skasowane!" />
@@ -340,7 +340,7 @@
 		<text name = "gui_CPAD_off"								text = "wyłączone"/>
 		<text name = "gui_CPAD_simple"							text = "proste"/>
 		<text name = "gui_CPAD_full"							text = "pełne"/>		
-		<text name = "gui_ad_combineCPADHudMouse"				text = "połącz przyciski CP/AD"/>    	<text name = "gui_ad_combineCPADHudMouse_tooltip"		text = "wyłączone: domyślnie / proste: CP: druga akcja myszą  > mysz wł. + wył., AD: Pokaż interfejs > oba interfejsy wł. + wył. / pełne: tak jak proste, ale pokaż interfejsy w prostych krokach / Wymagane: Wyłączenie w ustawieniach CP pokazywania interfejsu za pomocą prawego kliku"/>
+		<text name = "gui_ad_combineCPADHudMouse"				text = "połącz przyciski CP/AD"/>    	<text name = "gui_ad_combineCPADHudMouse_tooltip"		text = "wyłączone: domyślnie / proste: CP: druga akcja myszą  > mysz wł. + wył., ADFMGD: Pokaż interfejs > oba interfejsy wł. + wył. / pełne: tak jak proste, ale pokaż interfejsy w prostych krokach / Wymagane: Wyłączenie w ustawieniach CP pokazywania interfejsu za pomocą prawego kliku"/>
 		
 		<text name = "gui_ad_editorTip_1"								text = "Prosty klik lewym przyciskiem:"/>
 		<text name = "gui_ad_editorTip_2"								text = "Tylko mysz: Zaznacz pierwszy punkt"/>

@@ -3,62 +3,62 @@
 	<translationContributors>璃月雷神</translationContributors>
 	<texts>
 		<text name="UNKNOWN"									text="未知" />
-		<text name="input_ADToggleHud"							text="AD: 切换 HUD" />
-		<text name="input_ADToggleHudExtension"					text="AD: 显示 HUD 信息" />
-		<text name="input_ADToggleMouse"						text="AD: 切换鼠标" />
-		<text name="input_ADEnDisable"							text="AD: 启用/禁用" />
-		<text name="input_ADSilomode"							text="AD: 更改模式" />
-		<text name="input_ADPreviousMode"						text="AD: 上一模式" />
-		<text name="input_ADRecord"								text="AD: 记录" />
-		<text name="input_ADRecord_Dual"						text="AD: 记录双向路线" />
-		<text name="input_ADRecord_SubPrio"						text="AD: 记录次要路线" />
-		<text name="input_ADRecord_SubPrioDual"					text="AD: 记录双向次要路线" />
-		<text name="input_ADSelectTarget"						text="AD: 选择下一个目标" />
-		<text name="input_ADSelectPreviousTarget"				text="AD: 选择上一个目标" />
-		<text name="input_AD_Speed_up"							text="AD: 提高速度" />
-		<text name="input_AD_Speed_down"						text="AD: 降低速度" />
-		<text name="input_AD_routes_manager" 					text="AD: 打开路线管理器" />
-		<text name="input_AD_open_notification_history" 		text="AD: 打开通知历史" />
-		<text name="input_AD_open_colorSettings" 		        text="AD: 颜色分配" />
-		<text name="input_AD_continue"							text="AD: 继续" />
-		<text name="input_ADSelectTargetUnload"					text="AD: 选择下一个卸载" />
-		<text name="input_ADSelectPreviousTargetUnload"			text="AD: 选择上一个卸载" />
-		<text name="input_ADActivateDebug"						text="AD: 编辑模式" />
-		<text name="input_ADDisplayMapPoints"					text="AD: 显示航点" />
-		<text name="input_ADDebugSelectNeighbor"				text="AD: 选择相邻点" />
-		<text name="input_ADDebugChangeNeighbor"				text="AD: 选择下一个相邻点" />
-		<text name="input_ADDebugPreviousNeighbor"				text="AD: 选择上一个相邻点" />
-		<text name="input_ADDebugCreateConnection"				text="AD: 切换连接" />
-		<text name="input_ADDebugToggleConnectionInverted"		text="AD: 切换反转之间的连接" />
-		<text name="input_ADDebugCreateMapMarker"				text="AD: 创建/编辑目标" />
-		<text name="input_ADRenameMapMarker"					text="AD: 编辑选定的目标" />
-		<text name="input_ADDebugDeleteWayPoint"				text="AD: 删除航点" />
-		<text name="input_ADDebugDeleteDestination"				text="AD: 删除最近的目标" />
-		<text name="input_ADSelectNextFillType"					text="AD: 选择下一个填充类型" />
-		<text name="input_ADSelectPreviousFillType"				text="AD: 选择上一个填充类型" />
-		<text name="input_ADOpenGUI"							text="AD: 打开图形用户界面" />
-		<text name="input_ADCallDriver"							text="AD: 呼叫司机" />
-		<text name="input_ADGoToVehicle"						text="AD: 前往到达的车辆" />
-		<text name="input_ADNameDriver"							text="AD: 指定司机姓名" />
-		<text name="input_ADSetDestinationFilter"				text="AD: 目的地筛选器" />
-		<text name="input_AD_FieldSpeed_up"						text="AD: 提高田间速度" />
-		<text name="input_AD_FieldSpeed_down"					text="AD: 降低田间速度" />
-		<text name="input_ADIncLoopCounter"						text="AD: 增加循环计数器" />
-		<text name="input_ADDecLoopCounter"						text="AD: 减少循环计数器" />
-		<text name="input_ADbunkerUnloadType"					text="AD: 卸载到拖车或 BGA" />
-		<text name="input_ADParkVehicle"						text="AD: 停放车辆" />
-		<text name="input_ADSetParkDestination"					text="AD: 指定第一个停车目的地" />
-		<text name="input_ADRefuelVehicle"						text="AD: 车辆加油" />
-		<text name="input_ADRepairVehicle"						text="AD: 修理车辆" />	
-		<text name="input_ADSwapTargets"						text="AD: 交换目标" />
-		<text name="input_ADStartCP"							text="AD: 交接给 CP/ALIVE" />
-		<text name="input_ADToggleCP_AIVE"						text="AD: 切换 CP/AIVE" />
-		<text name="input_AD_devAction"                         text="AD: 开发人员操作" />
-		<text name="input_ADToggleAutomaticPickupTarget"				text="AD: 切换自动拾取目标" />
-		<text name="input_ADToggleAutomaticUnloadTarget"				text="AD: 切换自动卸载目标" />
-		<text name="input_ADToggleLoadByFillLevel"				text="AD: Toggle loading by fill level" />
-		<text name="hud_avoidFruit"								text="AD: 规避作物" />
-		<text name="hud_startCp"								text="AD: 在目的地开始 CP / AIVE" />
+		<text name="input_ADToggleHud"							text="ADFMGD: 切换 HUD" />
+		<text name="input_ADToggleHudExtension"					text="ADFMGD: 显示 HUD 信息" />
+		<text name="input_ADToggleMouse"						text="ADFMGD: 切换鼠标" />
+		<text name="input_ADEnDisable"							text="ADFMGD: 启用/禁用" />
+		<text name="input_ADSilomode"							text="ADFMGD: 更改模式" />
+		<text name="input_ADPreviousMode"						text="ADFMGD: 上一模式" />
+		<text name="input_ADRecord"								text="ADFMGD: 记录" />
+		<text name="input_ADRecord_Dual"						text="ADFMGD: 记录双向路线" />
+		<text name="input_ADRecord_SubPrio"						text="ADFMGD: 记录次要路线" />
+		<text name="input_ADRecord_SubPrioDual"					text="ADFMGD: 记录双向次要路线" />
+		<text name="input_ADSelectTarget"						text="ADFMGD: 选择下一个目标" />
+		<text name="input_ADSelectPreviousTarget"				text="ADFMGD: 选择上一个目标" />
+		<text name="input_AD_Speed_up"							text="ADFMGD: 提高速度" />
+		<text name="input_AD_Speed_down"						text="ADFMGD: 降低速度" />
+		<text name="input_AD_routes_manager" 					text="ADFMGD: 打开路线管理器" />
+		<text name="input_AD_open_notification_history" 		text="ADFMGD: 打开通知历史" />
+		<text name="input_AD_open_colorSettings" 		        text="ADFMGD: 颜色分配" />
+		<text name="input_AD_continue"							text="ADFMGD: 继续" />
+		<text name="input_ADSelectTargetUnload"					text="ADFMGD: 选择下一个卸载" />
+		<text name="input_ADSelectPreviousTargetUnload"			text="ADFMGD: 选择上一个卸载" />
+		<text name="input_ADActivateDebug"						text="ADFMGD: 编辑模式" />
+		<text name="input_ADDisplayMapPoints"					text="ADFMGD: 显示航点" />
+		<text name="input_ADDebugSelectNeighbor"				text="ADFMGD: 选择相邻点" />
+		<text name="input_ADDebugChangeNeighbor"				text="ADFMGD: 选择下一个相邻点" />
+		<text name="input_ADDebugPreviousNeighbor"				text="ADFMGD: 选择上一个相邻点" />
+		<text name="input_ADDebugCreateConnection"				text="ADFMGD: 切换连接" />
+		<text name="input_ADDebugToggleConnectionInverted"		text="ADFMGD: 切换反转之间的连接" />
+		<text name="input_ADDebugCreateMapMarker"				text="ADFMGD: 创建/编辑目标" />
+		<text name="input_ADRenameMapMarker"					text="ADFMGD: 编辑选定的目标" />
+		<text name="input_ADDebugDeleteWayPoint"				text="ADFMGD: 删除航点" />
+		<text name="input_ADDebugDeleteDestination"				text="ADFMGD: 删除最近的目标" />
+		<text name="input_ADSelectNextFillType"					text="ADFMGD: 选择下一个填充类型" />
+		<text name="input_ADSelectPreviousFillType"				text="ADFMGD: 选择上一个填充类型" />
+		<text name="input_ADOpenGUI"							text="ADFMGD: 打开图形用户界面" />
+		<text name="input_ADCallDriver"							text="ADFMGD: 呼叫司机" />
+		<text name="input_ADGoToVehicle"						text="ADFMGD: 前往到达的车辆" />
+		<text name="input_ADNameDriver"							text="ADFMGD: 指定司机姓名" />
+		<text name="input_ADSetDestinationFilter"				text="ADFMGD: 目的地筛选器" />
+		<text name="input_AD_FieldSpeed_up"						text="ADFMGD: 提高田间速度" />
+		<text name="input_AD_FieldSpeed_down"					text="ADFMGD: 降低田间速度" />
+		<text name="input_ADIncLoopCounter"						text="ADFMGD: 增加循环计数器" />
+		<text name="input_ADDecLoopCounter"						text="ADFMGD: 减少循环计数器" />
+		<text name="input_ADbunkerUnloadType"					text="ADFMGD: 卸载到拖车或 BGA" />
+		<text name="input_ADParkVehicle"						text="ADFMGD: 停放车辆" />
+		<text name="input_ADSetParkDestination"					text="ADFMGD: 指定第一个停车目的地" />
+		<text name="input_ADRefuelVehicle"						text="ADFMGD: 车辆加油" />
+		<text name="input_ADRepairVehicle"						text="ADFMGD: 修理车辆" />	
+		<text name="input_ADSwapTargets"						text="ADFMGD: 交换目标" />
+		<text name="input_ADStartCP"							text="ADFMGD: 交接给 CP/ALIVE" />
+		<text name="input_ADToggleCP_AIVE"						text="ADFMGD: 切换 CP/AIVE" />
+		<text name="input_AD_devAction"                         text="ADFMGD: 开发人员操作" />
+		<text name="input_ADToggleAutomaticPickupTarget"				text="ADFMGD: 切换自动拾取目标" />
+		<text name="input_ADToggleAutomaticUnloadTarget"				text="ADFMGD: 切换自动卸载目标" />
+		<text name="input_ADToggleLoadByFillLevel"				text="ADFMGD: Toggle loading by fill level" />
+		<text name="hud_avoidFruit"								text="ADFMGD: 规避作物" />
+		<text name="hud_startCp"								text="ADFMGD: 在目的地开始 CP / AIVE" />
 		<text name="AD_parkVehicle_noPosSet"					text="未指定停车目的地。" />
 		<text name="AD_parkVehicle_selected"					text="选择的停车地点：" />
 		<text name="AD_parkVehicle_deleted"					    text="停车目的地已删除！" />
@@ -341,7 +341,7 @@
 		<text name = "gui_CPAD_simple"							text = "简略"/>
 		<text name = "gui_CPAD_full"							text = "详细"/>		
 		<text name = "gui_ad_combineCPADHudMouse"				text = "收割机 CP/AD 按钮"/>
-    	<text name = "gui_ad_combineCPADHudMouse_tooltip"		text = "关闭：默认/简单:CP:秒。 鼠标操作 > 鼠标开 + 关,AD:显示/隐藏 HUD > 两个 hud 开 + 关 / 完整：与“简单”相同，但可以单独切换 hud / 必需：在 CP 菜单中禁用右键单击 HUD"/>
+    	<text name = "gui_ad_combineCPADHudMouse_tooltip"		text = "关闭：默认/简单:CP:秒。 鼠标操作 > 鼠标开 + 关,ADFMGD:显示/隐藏 HUD > 两个 hud 开 + 关 / 完整：与“简单”相同，但可以单独切换 hud / 必需：在 CP 菜单中禁用右键单击 HUD"/>
 		
 		<text name = "gui_ad_editorTip_1"								text = "简单的鼠标左键点击："/>
 		<text name = "gui_ad_editorTip_2"								text = "仅鼠标:选择第一个点"/>
